@@ -5,7 +5,8 @@ var app = new Vue (
     {
       el : "#myApp",  
       data : {
-        message : 'HELLO WORLD'
+        message : 'HELLO VUE JS',
+        img : 'https://cdn.statically.io/img/austingil.com/wp-content/uploads/Vue-Blog-Cover.svg'
       }
     }
 

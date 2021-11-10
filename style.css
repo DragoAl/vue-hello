@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: azure;
+}
+
+#myApp {
+    width: 30%;
+    margin: 10vh auto;
+    text-align: center;
+}
+
+#myApp h1 {
+    margin-bottom: 15px;
+}
+
+#myApp img {
+    width: 100%;
+    border-radius: 20px;
+}
